@@ -2,7 +2,7 @@ package it.scantamburloenrico.proxy;
 
 /**
  *
- * @author Enrico Scantamburlo <scantamburlo at streamsim.com>
+ * @author Enrico Scantamburlo
  */
 public interface Person {
 
